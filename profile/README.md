@@ -41,17 +41,18 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 ## ⌹ 시스템 아키텍처
 <p align="center"> <img src="https://github.com/user-attachments/assets/9564acc6-2a55-4875-94b1-5aa33079150c" alt="System Architecture" width="800"> </p>
 
-## 🔄 포스터
-<p align="center"> <img src="https://github.com/user-attachments/assets/8f983fda-e4c3-4c52-9e16-177069c2f03f" alt="poster" width="800"> </p>
-
 ## 시연 및 발표 영상
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=yfaaHW_4KC8">
-    <img src="https://img.youtube.com/vi/yfaaHW_4KC8/0.jpg" alt="Code Sync Demo" width="400"/>
-  </a>
-</p>
 
-▶️ [발표 영상 보러가기](https://www.youtube.com/watch?v=yfaaHW_4KC8)
+[![Code Sync Demo](https://img.youtube.com/vi/yfaaHW_4KC8/0.jpg)](https://www.youtube.com/watch?v=yfaaHW_4KC8)
+
+
+## 🔄 포스터
+<details>
+<summary>포스터 보기</summary>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f983fda-e4c3-4c52-9e16-177069c2f03f" alt="poster" width="800">
+</p>
+</details>
 
 ## 🔗 참고 링크
 ### Swagger API 문서
