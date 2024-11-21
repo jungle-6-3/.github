@@ -38,7 +38,7 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 ## ⚙ 기술 스택
 <p align="center"> <img src="https://github.com/user-attachments/assets/de67fc3f-fc60-4a95-86cd-5b99f66384bb" alt="Tech Stack" width="800"> </p>
 
-## 시스템 아키텍처
+## ⌹ 시스템 아키텍처
 <p align="center"> <img src="https://github.com/user-attachments/assets/9564acc6-2a55-4875-94b1-5aa33079150c" alt="System Architecture" width="800"> </p>
 
 ## 🔄 포스터
@@ -53,12 +53,6 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 
 ▶️ [발표 영상 보러가기](https://www.youtube.com/watch?v=yfaaHW_4KC8)
 
-## 👨‍👩‍👧‍👦 팀원 소개
-| **Frontend** | **Frontend** | **Frontend** | **Backend** | **Backend** |
-| :------: |  :------: | :------: | :------: |  :------: |
-| **박건우** | **임채승** | **윤민성** | **지창근** | **조형욱** |
-| [<img src="https://avatars.githubusercontent.com/u/133184988?v=4" height=150 width=150> <br/> @pigpgw](https://github.com/pigpgw) |  [<img src="https://avatars.githubusercontent.com/u/45393030?v=4" height=150 width=150> <br/> @loopy-lim](https://github.com/loopy-lim) | [<img src="https://avatars.githubusercontent.com/u/171473497?v=4" height=150 width=150> <br/> @Y-minseong](https://github.com/Y-minseong) | [<img src="https://avatars.githubusercontent.com/u/80716462?v=4" height=150 width=150> <br/> @pig19980](https://github.com/pig19980) | [<img src="https://avatars.githubusercontent.com/u/173615995?v=4" height=150 width=150> <br/> @HyoungUkJo](https://github.com/HyoungUkJo) |
-
 ## 🔗 참고 링크
 ### Swagger API 문서
 - [API 문서 바로가기](https://code-sync.net/api/api-document#/)
@@ -67,3 +61,9 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e9f3735-dd04-41c0-bc66-f50a507bfd88" alt="Feature Flow" width="400">
 </p>
+
+## 👨‍👩‍👧‍👦 팀원 소개
+| **Frontend** | **Frontend** | **Frontend** | **Backend** | **Backend** |
+| :------: |  :------: | :------: | :------: |  :------: |
+| **박건우** | **임채승** | **윤민성** | **지창근** | **조형욱** |
+| [<img src="https://avatars.githubusercontent.com/u/133184988?v=4" height=150 width=150> <br/> @pigpgw](https://github.com/pigpgw) |  [<img src="https://avatars.githubusercontent.com/u/45393030?v=4" height=150 width=150> <br/> @loopy-lim](https://github.com/loopy-lim) | [<img src="https://avatars.githubusercontent.com/u/171473497?v=4" height=150 width=150> <br/> @Y-minseong](https://github.com/Y-minseong) | [<img src="https://avatars.githubusercontent.com/u/80716462?v=4" height=150 width=150> <br/> @pig19980](https://github.com/pig19980) | [<img src="https://avatars.githubusercontent.com/u/173615995?v=4" height=150 width=150> <br/> @HyoungUkJo](https://github.com/HyoungUkJo) |
