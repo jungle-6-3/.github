@@ -35,15 +35,21 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
    - 화이트보드 기능
    - 세션 녹화/재생 기능
 
-## 🔄 Room 생명주기
-![CodeSync 74](https://github.com/user-attachments/assets/dfcc7f1d-3750-4200-8608-ab3ad1fcb7f3)
-
-
 ## 🛠️ 개발 환경
 - Frontend : React, TypeScript, React Query, Socket.io, Yjs, Monaco Editor, WebRTC, Excalidraw, BlockNote, PeerJS, Zustand
 - Backend : NestJS, MySQL, TypeORM, Socket.io, Yjs, PassPort, Swagger, multer, pnpm, Amazon S3
 - 협업 툴 : Discord, Notion, Github, Figma
 - 서비스 배포 환경 : AWS EC2, AWS Route 53, Amazon S3, Nginx, Github Actions, PM2
+
+## ⚙ 기술 스택
+<p align="center"> <img src="https://github.com/user-attachments/assets/de67fc3f-fc60-4a95-86cd-5b99f66384bb" alt="Tech Stack" width="800"> </p>
+
+## 시스템 아키텍처
+<p align="center"> <img src="https://github.com/user-attachments/assets/9564acc6-2a55-4875-94b1-5aa33079150c" alt="System Architecture" width="800"> </p>
+
+## 🔄 Room 생명주기
+<p align="center"> <img src="https://github.com/user-attachments/assets/dfcc7f1d-3750-4200-8608-ab3ad1fcb7f3" alt="Room Lifecycle" width="800"> </p>
+
 
 ## 🎥 주요 기능 데모
 ### GitHub PR 연동 및 실시간 코드 리뷰
