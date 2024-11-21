@@ -35,33 +35,24 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
    - 화이트보드 기능
    - 세션 녹화/재생 기능
 
-## 🛠️ 개발 환경
-- Frontend : React, TypeScript, React Query, Socket.io, Yjs, Monaco Editor, WebRTC, Excalidraw, BlockNote, PeerJS, Zustand
-- Backend : NestJS, MySQL, TypeORM, Socket.io, Yjs, PassPort, Swagger, multer, pnpm, Amazon S3
-- 협업 툴 : Discord, Notion, Github, Figma
-- 서비스 배포 환경 : AWS EC2, AWS Route 53, Amazon S3, Nginx, Github Actions, PM2
-
 ## ⚙ 기술 스택
 <p align="center"> <img src="https://github.com/user-attachments/assets/de67fc3f-fc60-4a95-86cd-5b99f66384bb" alt="Tech Stack" width="800"> </p>
 
 ## 시스템 아키텍처
 <p align="center"> <img src="https://github.com/user-attachments/assets/9564acc6-2a55-4875-94b1-5aa33079150c" alt="System Architecture" width="800"> </p>
 
-## 🔄 Room 생명주기
-<p align="center"> <img src="https://github.com/user-attachments/assets/dfcc7f1d-3750-4200-8608-ab3ad1fcb7f3" alt="Room Lifecycle" width="800"> </p>
+## 🔄 포스터
+<p align="center"> <img src="https://github.com/user-attachments/assets/8f983fda-e4c3-4c52-9e16-177069c2f03f" alt="poster" width="800"> </p>
 
-
-## 🎥 주요 기능 데모
-### GitHub PR 연동 및 실시간 코드 리뷰
-(데모 영상)
-
-### 음성/화면 공유 및 실시간 코드 에디팅
-(데모 영상)
-
-### Excalidraw 활용 시각적 설명
-(데모 영상)
 ## 시연 및 발표 영상
-- (링크) https://www.youtube.com/watch?v=yfaaHW_4KC8
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yfaaHW_4KC8">
+    <img src="https://img.youtube.com/vi/yfaaHW_4KC8/0.jpg" alt="Code Sync Demo" width="400"/>
+  </a>
+</p>
+
+▶️ [발표 영상 보러가기](https://www.youtube.com/watch?v=yfaaHW_4KC8)
+
 ## 👨‍👩‍👧‍👦 팀원 소개
 | **Frontend** | **Frontend** | **Frontend** | **Backend** | **Backend** |
 | :------: |  :------: | :------: | :------: |  :------: |
@@ -69,6 +60,10 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 | [<img src="https://avatars.githubusercontent.com/u/133184988?v=4" height=150 width=150> <br/> @pigpgw](https://github.com/pigpgw) |  [<img src="https://avatars.githubusercontent.com/u/45393030?v=4" height=150 width=150> <br/> @loopy-lim](https://github.com/loopy-lim) | [<img src="https://avatars.githubusercontent.com/u/171473497?v=4" height=150 width=150> <br/> @Y-minseong](https://github.com/Y-minseong) | [<img src="https://avatars.githubusercontent.com/u/80716462?v=4" height=150 width=150> <br/> @pig19980](https://github.com/pig19980) | [<img src="https://avatars.githubusercontent.com/u/173615995?v=4" height=150 width=150> <br/> @HyoungUkJo](https://github.com/HyoungUkJo) |
 
 ## 🔗 참고 링크
-- [Swagger 문서](https://code-sync.net/api/api-document#/)
-- [Figma 디자인](링크)
-- [프로젝트 발표자료](링크)
+### Swagger API 문서
+- [API 문서 바로가기](https://code-sync.net/api/api-document#/)
+
+### Figma 디자인
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e9f3735-dd04-41c0-bc66-f50a507bfd88" alt="Feature Flow" width="400">
+</p>
