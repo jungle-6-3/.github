@@ -54,11 +54,13 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 
 ### Excalidraw 활용 시각적 설명
 (데모 영상)
-
+## 시연 및 발표 영상
+- (링크) https://www.youtube.com/watch?v=yfaaHW_4KC8
 ## 👨‍👩‍👧‍👦 팀원 소개
-| **Frontend** | **Frontend** | **Backend** |
-| :------: |  :------: | :------: | 
-| (팀원 정보) | (팀원 정보) | (팀원 정보) |
+| **Frontend** | **Frontend** | **Frontend** | **Backend** | **Backend** |
+| :------: |  :------: | :------: | :------: |  :------: |
+| **박건우** | **임채승** | **윤민성** | **지창근** | **조형욱** |
+| [<img src="https://avatars.githubusercontent.com/u/133184988?v=4" height=150 width=150> <br/> @pigpgw](https://github.com/pigpgw) |  [<img src="https://avatars.githubusercontent.com/u/45393030?v=4" height=150 width=150> <br/> @loopy-lim](https://github.com/loopy-lim) | [<img src="https://avatars.githubusercontent.com/u/171473497?v=4" height=150 width=150> <br/> @Y-minseong](https://github.com/Y-minseong) | [<img src="https://avatars.githubusercontent.com/u/80716462?v=4" height=150 width=150> <br/> @pig19980](https://github.com/pig19980) | [<img src="https://avatars.githubusercontent.com/u/173615995?v=4" height=150 width=150> <br/> @HyoungUkJo](https://github.com/HyoungUkJo) |
 
 ## 🔗 참고 링크
 - [Swagger 문서](https://code-sync.net/api/api-document#/)
