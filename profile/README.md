@@ -41,12 +41,17 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 ## ⌹ 시스템 아키텍처
 <p align="center"> <img src="https://github.com/user-attachments/assets/9564acc6-2a55-4875-94b1-5aa33079150c" alt="System Architecture" width="800"> </p>
 
-## 시연 및 발표 영상
+## 📺 시연 및 발표 영상
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yfaaHW_4KC8" target="_blank">
+    <img src="https://img.youtube.com/vi/yfaaHW_4KC8/0.jpg" alt="Code Sync Demo" width="400">
+  </a>
+</p>
 
-[![Code Sync Demo](https://img.youtube.com/vi/yfaaHW_4KC8/0.jpg)](https://www.youtube.com/watch?v=yfaaHW_4KC8)
+[🎥 발표 영상 전체 보기](https://www.youtube.com/watch?v=yfaaHW_4KC8)
 
 
-## 🔄 포스터
+### 🔄 포스터
 <details>
 <summary>포스터 보기</summary>
 <p align="center">
@@ -54,14 +59,15 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 </p>
 </details>
 
+### 🖍️ Figma 디자인
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e9f3735-dd04-41c0-bc66-f50a507bfd88" alt="Feature Flow" width="500">
+</p>
+
 ## 🔗 참고 링크
 ### Swagger API 문서
 - [API 문서 바로가기](https://code-sync.net/api/api-document#/)
 
-### Figma 디자인
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4e9f3735-dd04-41c0-bc66-f50a507bfd88" alt="Feature Flow" width="400">
-</p>
 
 ## 👨‍👩‍👧‍👦 팀원 소개
 | **Frontend** | **Frontend** | **Frontend** | **Backend** | **Backend** |
