@@ -59,11 +59,6 @@ GitHub PR을 통해 코드 리뷰를 하면서 이런 불편함을 겪으신 적
 </p>
 </details>
 
-### 🖍️ Figma 디자인
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4e9f3735-dd04-41c0-bc66-f50a507bfd88" alt="Feature Flow" width="500">
-</p>
-
 ## 🔗 참고 링크
 ### Swagger API 문서
 - [API 문서 바로가기](https://code-sync.net/api/api-document#/)
